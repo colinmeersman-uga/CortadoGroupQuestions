@@ -10,6 +10,7 @@ Finished
 2. Getting Naked - Patrick Lencioni
 
 In Progress
+
 3. The Infinite Game - Simon Sinek (Halfway done)
 4. Stranger in a Strange Land (Quarter done)
 
