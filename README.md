@@ -2,8 +2,11 @@
 
 ## Update
 
+Good Day Mr. Russell,
+
 At this point I have read a number of the required reading books and have compiled thoughts and questions based on those readings.
 I thought that this Repository may give me some initial practice in understanding how pull requests and collaboration works on a Git Repo.
+Please take as much time as you need to answer these question!
 Additionally, I thought this might be a place for me to input general Internship questions that I might have.
 
 Finished
@@ -35,5 +38,19 @@ In Chapter 2, Sinek uses the scientists at the Leningrad seed bank as the ultima
 I appreciated Sinek’s distinction between finite and infinite players, but I disagreed with his assertion that the US failed in the Vietnam War because they lacked an infinite mindset, and that adopting one would have changed the outcome. The reasoning Sinek provides is that the Viet Cong were fighting an infinite game for their survival, while the US was fighting a finite game focused on traditional metrics like territory and body counts. He argues that in a matchup between a finite and infinite player, the infinite player will always outlast the finite one. I disagree with applying this framework to military strategy. War, by its very nature, cannot be approached with an infinite mindset because it is strictly bound by finite resources (lives, money, and capital). No country has the capability to sustain a conflict indefinitely before those finite realities force an end. Sinek treats the "infinite mindset" as a strategic choice, but in environments governed by resource scarcity, that choice simply doesn't exist.
 
 How can an organization realistically play the "infinite game" when its most critical resources (whether that is capital or public support for the war effort) are by nature finite?
+
+## Housekeeping Questions
+
+I'm really looking forward to getting started this summer. As we get closer to my start date, I just had a few quick housekeeping questions to make sure I’m fully prepared and aligned with your processes from day one.
+
+First, could you walk me through the system the team uses for logging hours?
+
+I also wanted to ask what the payroll schedule and process look like for interns.
+
+Regarding day-to-day operations, what sort of frequeny should I expect for team meetings or check-ins?
+
+I would love to make a LinkedIn post regarding this upcoming internship, but I wanted to confirm any regulations that exist around making posts relating to Cortado Group. Additionally, as far as what title might be appropriate for a post of that sort would AI Solutions Intern, Innovation Strategy Intern, or Business Systems Intern work for this? (I wouldn't want to inflate my role with Cortado Group, but would love to share in a concise way how I will be adding value to the comapny. Any help with this would be awesome!)
+
+Finally, I have a couple of dates this summer around the 4th of July where I know I will need to be offline. Is there a way that I can proactively communicate and log those days?
 
 
