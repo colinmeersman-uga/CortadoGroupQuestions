@@ -5,8 +5,11 @@
 Good Day Mr. Russell,
 
 At this point I have read a number of the required reading books and have compiled thoughts and questions based on those readings.
+
 I thought that this Repository may give me some initial practice in understanding how pull requests and collaboration works on a Git Repo.
-Please take as much time as you need to answer these question!
+
+Please take as much time as you need to answer these questions!
+
 Additionally, I thought this might be a place for me to input general Internship questions that I might have.
 
 Finished
