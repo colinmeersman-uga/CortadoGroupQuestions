@@ -15,6 +15,7 @@ Finished
 3. The Infinite Game - Simon Sinek
 
 In Progress
+
 4. Stranger in a Strange Land (Quarter done)
 
 ## The Five Dysfunctions of a Team - Patrick Lencioni
