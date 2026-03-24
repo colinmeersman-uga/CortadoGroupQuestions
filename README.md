@@ -57,9 +57,7 @@ I appreciated Sinek’s distinction between finite and infinite players, but I d
 
 + I'm really looking forward to getting started this summer. As we get closer to my start date, I just had a few quick housekeeping questions to make sure I’m fully prepared and aligned with your processes from day one.
 
-+ First, could you walk me through the system the team uses for logging hours?
-
-+ I also wanted to ask what the payroll schedule and process look like for interns.
++ First, is there any system that I should sign up for for logging hours?
 
 + Regarding day-to-day operations, what sort of frequeny should I expect for team meetings or check-ins?
 
