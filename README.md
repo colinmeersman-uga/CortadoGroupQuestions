@@ -55,14 +55,15 @@ I appreciated Sinek’s distinction between finite and infinite players, but I d
 
 ## Housekeeping Questions
 
-+ I'm really looking forward to getting started this summer. As we get closer to my start date, I just had a few quick housekeeping questions to make sure I’m fully prepared and aligned with your processes from day one.
+I'm really looking forward to getting started this summer. As we get closer to my start date, I just had a few quick housekeeping questions to make sure I’m fully prepared and aligned with your processes from day one.
 
-+ First, is there any system that I should sign up for for logging hours?
++ First, is there any system that I should sign up for regarding logging of hours?
 
-+ Regarding day-to-day operations, what sort of frequeny should I expect for team meetings or check-ins?
++ Within day-to-day operations, what sort of frequeny should I expect for team meetings or check-ins?
 
-+ I would love to make a LinkedIn post regarding this upcoming internship, but I wanted to confirm any regulations that exist around making posts relating to Cortado Group. Additionally, as far as what title might be appropriate for a post of that sort would AI Solutions Intern, Innovation Strategy Intern, or Business Systems Intern work for this? (I wouldn't want to inflate my role with Cortado Group, but would love to share in a concise way how I will be adding value to the comapny. Any help with this would be awesome!)
++ I would love to make a LinkedIn post regarding this upcoming internship, but I wanted to confirm to see if there were any regulations that exist around making posts relating to Cortado Group.
 
-+ Finally, I have a couple of dates this summer around the 4th of July where I know I will need to be offline. Is there a way that I can proactively communicate and log those days?
++ Additionally, as far as what title might be appropriate as a description of this role, would AI Solutions Intern, Innovation Strategy Intern, or Business Systems Intern work for this? (I wouldn't want to inflate my role with Cortado Group, but would love to share in a concise way how I will be adding value to the comapny. Any help with this would be awesome!)
 
++ Finally, I have a couple of dates this summer around the 4th of July where I know I will need to be offline. Is there a way that I can proactively communicate and log those dates?
 
