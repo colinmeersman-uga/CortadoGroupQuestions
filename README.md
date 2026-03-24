@@ -23,7 +23,7 @@ In Progress
 
 ## The Five Dysfunctions of a Team - Patrick Lencioni
 
-Lencioni describes the importance of vulnerability in teams. As Kathryn begins her journey of getting her employees to open up, she encounters a decent amount discomfort within her team. In my own life, I have been thrown into numerous group projects in college where the only thing I know about my teammates is that they are in the same class as me and want to get a decent grade on their project. You have mentioned in the past that Cortado Group is a sort of heaven and that there will be aspects that I wish I could take with me at any place that I work. 
+Lencioni describes the importance of vulnerability in teams. As Kathryn begins her journey of getting her employees to open up, she encounters a decent amount discomfort within her team. In my own life, I have been thrown into numerous group projects in college where the only thing I know about my teammates is that they are in the same class as me and want to get a decent grade on their project. You have mentioned in the past that Cortado Group is a sort of heaven and that there will be aspects that I wish I could take with me to any place that I work. 
 
 + I am curious, do you feel that it is this vulerablity and trust dynamic that makes this company great or if there are other things that are greater contributers to your fondness of the company?
 
